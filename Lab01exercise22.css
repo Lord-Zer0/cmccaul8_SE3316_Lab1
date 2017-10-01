@@ -84,4 +84,7 @@ span.share{
   padding-right: 5px;
 }
 
+body {
+   font-size: 100%; /* about 16px */
+}
 
